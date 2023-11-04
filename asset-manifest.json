@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Keep_App_Clone/static/css/main.dcf2f96e.css",
+    "main.js": "/Keep_App_Clone/static/js/main.8f3d1691.js",
+    "index.html": "/Keep_App_Clone/index.html",
+    "main.dcf2f96e.css.map": "/Keep_App_Clone/static/css/main.dcf2f96e.css.map",
+    "main.8f3d1691.js.map": "/Keep_App_Clone/static/js/main.8f3d1691.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dcf2f96e.css",
+    "static/js/main.8f3d1691.js"
+  ]
+}
